@@ -3776,9 +3776,9 @@ if __name__ == "__main__":
 &lt;p&gt;此外, 因為 Flask 內定靜態目錄名稱為 static, 且 template 名稱為 templates, 因此在最基本的 Flask 程式架構中, 也需要自行建立這兩個目錄, 然後將靜態文件放入 static 目錄中, 而對應的  template 文件檔案, 則放入 templates 目錄中.&lt;/p&gt;</summary><category term="OpenShift"></category><category term="Flask"></category></entry><entry><title>40323250日誌 - 105/07/01</title><link href="http://40323250.github.io/project_site/blog/40323250ri-zhi-1050701.html" rel="alternate"></link><updated>2016-07-03T13:54:04+08:00</updated><author><name>40323250</name></author><id>tag:40323250.github.io,2016-07-03:project_site/blog/40323250ri-zhi-1050701.html</id><summary type="html">&lt;p&gt;V-rep 的使用與學習&lt;/p&gt;
 
 
-&lt;p&gt;&lt;sup id="fnref:first"&gt;&lt;a class="footnote-ref" href="#fn:first" rel="footnote"&gt;1&lt;/a&gt;&lt;/sup&gt;
 &lt;h2&gt;★暑期第一個禮拜的 星期四★&lt;/h2&gt;
-&lt;/br&gt;
+
+&lt;p&gt;&lt;/br&gt;
 &lt;h2&gt;心得 :&lt;/h2&gt;
 &lt;h3&gt;今天在網路上找了一堆範例影片 ,每一部片都快一個小時 ,然後都不知道怎麼運用 ,但至少對V-rep功能多了解一些了。&lt;/h3&gt;
 &lt;/br&gt;
@@ -3849,12 +3849,8 @@ if __name__ == "__main__":
 &lt;h2&gt;心得 :&lt;/h2&gt;
 &lt;h3&gt;V-rep很好玩 ,但是它組裝的層次又比creo2.0又更上一檔次了 ,
 俗話說的好 「良藥苦口」,好用的東西種剛開始總是特別棘手。 &lt;/h3&gt;
-&lt;/br&gt;&lt;/p&gt;
-&lt;div class="footnote"&gt;
-&lt;hr /&gt;
-&lt;ol&gt;
-&lt;li id="fn:first"&gt;
-&lt;p&gt;&lt;hr&gt;
+&lt;/br&gt;
+&lt;hr&gt;
 &lt;/br&gt;
 &lt;h2&gt;★暑期第一個禮拜的 星期六★&lt;/h2&gt;
 &lt;/br&gt;
@@ -3917,10 +3913,7 @@ a.為orthographic type  及  b.為perspective type&lt;/h3&gt;
 &lt;/br&gt;
 &lt;img src="http://coursemdetw.github.io/project_site_files/files/2016spring/g2/vision.gif"&gt;
 &lt;/br&gt;
-&lt;/br&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:first" rev="footnote" title="Jump back to footnote 1 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;</summary><category term="Kmol"></category></entry><entry><title>user - 使用者的範例網誌文章標題</title><link href="http://40323250.github.io/project_site/blog/user-shi-yong-zhe-de-fan-li-wang-zhi-wen-zhang-biao-ti.html" rel="alternate"></link><updated>2016-07-03T13:54:04+08:00</updated><author><name>user</name></author><id>tag:40323250.github.io,2016-07-03:project_site/blog/user-shi-yong-zhe-de-fan-li-wang-zhi-wen-zhang-biao-ti.html</id><summary type="html">&lt;p&gt;這裡放入 user 所寫的文章摘要&lt;/p&gt;
+&lt;/br&gt;&lt;/p&gt;</summary><category term="Kmol"></category></entry><entry><title>user - 使用者的範例網誌文章標題</title><link href="http://40323250.github.io/project_site/blog/user-shi-yong-zhe-de-fan-li-wang-zhi-wen-zhang-biao-ti.html" rel="alternate"></link><updated>2016-07-03T13:54:04+08:00</updated><author><name>user</name></author><id>tag:40323250.github.io,2016-07-03:project_site/blog/user-shi-yong-zhe-de-fan-li-wang-zhi-wen-zhang-biao-ti.html</id><summary type="html">&lt;p&gt;這裡放入 user 所寫的文章摘要&lt;/p&gt;
 
 
 &lt;p&gt;這裡為 user 所寫的文章主要內容&lt;/p&gt;</summary><category term="範例"></category></entry><entry><title>yen - Github Pages 網頁資料更新問題</title><link href="http://40323250.github.io/project_site/blog/yen-github-pages-wang-ye-zi-liao-geng-xin-wen-ti.html" rel="alternate"></link><updated>2016-07-03T13:54:04+08:00</updated><author><name>yen</name></author><id>tag:40323250.github.io,2016-07-03:project_site/blog/yen-github-pages-wang-ye-zi-liao-geng-xin-wen-ti.html</id><summary type="html">&lt;p&gt;突然間, Github Pages 的網頁轉換機制不再更新&lt;/p&gt;
