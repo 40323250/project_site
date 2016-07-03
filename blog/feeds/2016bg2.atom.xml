@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計專題 (虎尾科大MDE)</title><link href="http://project.mde.tw/blog/" rel="alternate"></link><link href="http://project.mde.tw/blog/feeds/2016bg2.atom.xml" rel="self"></link><id>http://project.mde.tw/blog/</id><updated>2016-07-03T13:54:04+08:00</updated><entry><title>40323250日誌 - 105/07/01</title><link href="http://project.mde.tw/blog/40323250ri-zhi-1050701.html" rel="alternate"></link><updated>2016-07-03T13:54:04+08:00</updated><author><name>40323250</name></author><id>tag:project.mde.tw,2016-07-03:blog/40323250ri-zhi-1050701.html</id><summary type="html">&lt;p&gt;V-rep 的使用與學習&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計專題 (虎尾科大MDE)</title><link href="http://40323250.github.io/project_site/blog/" rel="alternate"></link><link href="http://40323250.github.io/project_site/blog/feeds/2016bg2.atom.xml" rel="self"></link><id>http://40323250.github.io/project_site/blog/</id><updated>2016-07-03T13:54:04+08:00</updated><entry><title>40323250日誌 - 105/07/01</title><link href="http://40323250.github.io/project_site/blog/40323250ri-zhi-1050701.html" rel="alternate"></link><updated>2016-07-03T13:54:04+08:00</updated><author><name>40323250</name></author><id>tag:40323250.github.io,2016-07-03:project_site/blog/40323250ri-zhi-1050701.html</id><summary type="html">&lt;p&gt;V-rep 的使用與學習&lt;/p&gt;
 
 
 &lt;p&gt;&lt;sup id="fnref:first"&gt;&lt;a class="footnote-ref" href="#fn:first" rel="footnote"&gt;1&lt;/a&gt;&lt;/sup&gt;
@@ -146,7 +146,7 @@ a.為orthographic type  及  b.為perspective type&lt;/h3&gt;
 &lt;/br&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:first" rev="footnote" title="Jump back to footnote 1 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/div&gt;</summary><category term="Kmol"></category></entry><entry><title>40323230紀錄</title><link href="http://project.mde.tw/blog/40323230ji-lu.html" rel="alternate"></link><updated>2016-07-03T13:54:04+08:00</updated><author><name>40323230</name></author><id>tag:project.mde.tw,2016-07-03:blog/40323230ji-lu.html</id><summary type="html">&lt;p&gt;V-REP從範本學得的一些紀錄&lt;/p&gt;
+&lt;/div&gt;</summary><category term="Kmol"></category></entry><entry><title>40323230紀錄</title><link href="http://40323250.github.io/project_site/blog/40323230ji-lu.html" rel="alternate"></link><updated>2016-07-03T13:54:04+08:00</updated><author><name>40323230</name></author><id>tag:40323250.github.io,2016-07-03:project_site/blog/40323230ji-lu.html</id><summary type="html">&lt;p&gt;V-REP從範本學得的一些紀錄&lt;/p&gt;
 
 
 &lt;h2&gt;V-REP Example Learning Reviews&lt;/h2&gt;
@@ -180,7 +180,7 @@ a.為orthographic type  及  b.為perspective type&lt;/h3&gt;
 &lt;/br&gt;&lt;hr&gt;&lt;/br&gt;
 &lt;h3&gt;目前整理完幾何部件的檔案。存於\users\g2_files\VREP_Simulation.ttt中。&lt;/h3&gt;
 &lt;/br&gt;
-&lt;img src="http://i.imgur.com/jNvEHRc.jpg" &gt;&lt;/p&gt;</summary><category term="Kmol"></category></entry><entry><title>40323250日誌 - 105/06/28</title><link href="http://project.mde.tw/blog/40323250ri-zhi-1050628.html" rel="alternate"></link><updated>2016-07-03T13:54:04+08:00</updated><author><name>40323250</name></author><id>tag:project.mde.tw,2016-07-03:blog/40323250ri-zhi-1050628.html</id><summary type="html">&lt;p&gt;暑期第一個禮拜的 星期二&lt;/p&gt;
+&lt;img src="http://i.imgur.com/jNvEHRc.jpg" &gt;&lt;/p&gt;</summary><category term="Kmol"></category></entry><entry><title>40323250日誌 - 105/06/28</title><link href="http://40323250.github.io/project_site/blog/40323250ri-zhi-1050628.html" rel="alternate"></link><updated>2016-07-03T13:54:04+08:00</updated><author><name>40323250</name></author><id>tag:40323250.github.io,2016-07-03:project_site/blog/40323250ri-zhi-1050628.html</id><summary type="html">&lt;p&gt;暑期第一個禮拜的 星期二&lt;/p&gt;
 
 
 &lt;h3&gt;目前組合進度&lt;/h3&gt;
@@ -193,7 +193,7 @@ a.為orthographic type  及  b.為perspective type&lt;/h3&gt;
 &lt;/br&gt;
 &lt;img src="http://i.imgur.com/W3N5pkC.png"&gt;
 &lt;/br&gt;
-&lt;h4&gt;滑鼠選轉及縮放也跟著出問題，點選右方試圖方塊圖又會不見，只能重新再組一次。&lt;/h4&gt;&lt;/p&gt;</summary><category term="Kmol"></category></entry><entry><title>40323250日誌 - 105/06/29</title><link href="http://project.mde.tw/blog/40323250ri-zhi-1050629.html" rel="alternate"></link><updated>2016-07-03T13:54:04+08:00</updated><author><name>40323250</name></author><id>tag:project.mde.tw,2016-07-03:blog/40323250ri-zhi-1050629.html</id><summary type="html">&lt;p&gt;暑期第一個禮拜的 星期三&lt;/p&gt;
+&lt;h4&gt;滑鼠選轉及縮放也跟著出問題，點選右方試圖方塊圖又會不見，只能重新再組一次。&lt;/h4&gt;&lt;/p&gt;</summary><category term="Kmol"></category></entry><entry><title>40323250日誌 - 105/06/29</title><link href="http://40323250.github.io/project_site/blog/40323250ri-zhi-1050629.html" rel="alternate"></link><updated>2016-07-03T13:54:04+08:00</updated><author><name>40323250</name></author><id>tag:40323250.github.io,2016-07-03:project_site/blog/40323250ri-zhi-1050629.html</id><summary type="html">&lt;p&gt;暑期第一個禮拜的 星期三&lt;/p&gt;
 
 
 &lt;h3&gt;進度&lt;/h3&gt;
@@ -222,7 +222,7 @@ a.為orthographic type  及  b.為perspective type&lt;/h3&gt;
 &lt;/br&gt;
 &lt;h3&gt;明天應該就可以開始測試模擬了。&lt;/h3&gt;
 &lt;/br&gt;
-&lt;h3&gt;Onshape零件及兩個stl檔案都放在users/g2_files目錄下，歡迎取用。&lt;/h3&gt;&lt;/p&gt;</summary><category term="Kmol"></category></entry><entry><title>OpenCv範例執行</title><link href="http://project.mde.tw/blog/opencvfan-li-zhi-xing.html" rel="alternate"></link><updated>2016-07-03T13:54:04+08:00</updated><author><name>40323250</name></author><id>tag:project.mde.tw,2016-07-03:blog/opencvfan-li-zhi-xing.html</id><summary type="html">&lt;p&gt;OpenCv example with python test&lt;/p&gt;
+&lt;h3&gt;Onshape零件及兩個stl檔案都放在users/g2_files目錄下，歡迎取用。&lt;/h3&gt;&lt;/p&gt;</summary><category term="Kmol"></category></entry><entry><title>OpenCv範例執行</title><link href="http://40323250.github.io/project_site/blog/opencvfan-li-zhi-xing.html" rel="alternate"></link><updated>2016-07-03T13:54:04+08:00</updated><author><name>40323250</name></author><id>tag:40323250.github.io,2016-07-03:project_site/blog/opencvfan-li-zhi-xing.html</id><summary type="html">&lt;p&gt;OpenCv example with python test&lt;/p&gt;
 
 
 &lt;h3&gt;實作系統Ubuntu 14.04 以及 老師整合的檔案&lt;/h3&gt;
@@ -296,7 +296,7 @@ out.release()
 cv2.destroyAllWindows()
 &lt;/pre&gt;
 &lt;h3&gt;執行結果&lt;/h3&gt;
-&lt;h4&gt;得到檔案名稱為output的avi影片檔&lt;/h4&gt;&lt;/p&gt;</summary><category term="OpenCv"></category></entry><entry><title>Summer Plan</title><link href="http://project.mde.tw/blog/summer-plan.html" rel="alternate"></link><updated>2016-07-03T13:54:04+08:00</updated><author><name>40323250</name></author><id>tag:project.mde.tw,2016-07-03:blog/summer-plan.html</id><summary type="html">&lt;p&gt;Summer project&lt;/p&gt;
+&lt;h4&gt;得到檔案名稱為output的avi影片檔&lt;/h4&gt;&lt;/p&gt;</summary><category term="OpenCv"></category></entry><entry><title>Summer Plan</title><link href="http://40323250.github.io/project_site/blog/summer-plan.html" rel="alternate"></link><updated>2016-07-03T13:54:04+08:00</updated><author><name>40323250</name></author><id>tag:40323250.github.io,2016-07-03:project_site/blog/summer-plan.html</id><summary type="html">&lt;p&gt;Summer project&lt;/p&gt;
 
 
 &lt;p&gt;1.畫3D Printer (V-rep ,Onshape)&lt;/p&gt;
